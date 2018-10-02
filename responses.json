@@ -1,0 +1,60 @@
+{
+    "GetRandom": 
+    {
+        "tell": "This is a random tip!"
+    },
+    "GetCamping": 
+    {
+        "tell": "This is a camping tip!"
+    },
+    "GetClimbing": 
+    {
+        "tell": "This is a climbing tip!"
+    },
+    "GetRunning": 
+    {
+        "tell": "This is a running tip!"
+    },
+    "GetRoadCycling": 
+    {
+        "tell": "This is a road cycling tip!"
+    },
+    "GetMountainBiking": 
+    {
+        "tell": "This is a mountain biking tip!"
+    },
+    "GetPaddling": 
+    {
+        "tell": "This is a paddling tip!"
+    },
+    "GetSkiing": 
+    {
+        "tell": "This is a skiing tip!"
+    },
+    "GetSnowboarding": 
+    {
+        "tell": "This is a snowboarding tip!"
+    },
+    "GetHiking": 
+    {
+        "tell": "This is a hiking tip!"
+    },
+    "GetBackpacking": 
+    {
+        "tell": "This is a backpacking tip!"
+    },
+    "LaunchRequest": 
+    {
+        "tell": "Welcome to the Tips!",
+        "reprompt": "Ask for a random or specific outdoor tip!"
+    },
+    "AMAZON.HelpIntent":
+    {
+        "ask": "Here are some things you can say: play a climbing tip or to tell me a mountain biking tip.",
+        "reprompt": "Ask for a random or specific outdoor tip!"
+    },
+    "AMAZON.StopIntent":
+    {
+        "tell": "See ya! Keep on, keeping on! Check out website.com for other New Ways to Experience Gear!"
+    }
+}

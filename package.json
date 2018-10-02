@@ -1,0 +1,15 @@
+{
+  "name": "random-tips",
+  "version": "1.0.0",
+  "description": "Random Tips Based on Different Slots and Intent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carbonbased Creative, carbonbasedcreative.com",
+  "license": "Commercial",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "voicelabs": "^1.0.1"
+  }
+}
